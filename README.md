@@ -150,6 +150,8 @@ profile.php?id=3
 💥 Result
 Access to other users' data without authorization
 
+"""""""""""""""""IF you stuck go to screenshots and downoload the word file""""""""""""""""""""""""""""""""""'
+
 
 
 🛠 Tools Used
